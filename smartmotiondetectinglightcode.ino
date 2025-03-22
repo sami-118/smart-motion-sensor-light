@@ -1,5 +1,5 @@
-int relay = 12;
-int pir = 11;
+int relay = 8;
+int pir = 7;
 
 void setup() {
   Serial.begin(9600);
